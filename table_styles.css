@@ -1,0 +1,64 @@
+.odi_table {
+	width: 100%;
+	border-style:15px outset rgb(151,151,151);
+	font-family: Arial, Verdana, sans-serif;
+	border-collapse: collapse;
+}
+
+.odi_table tr {
+	height: 25px;
+}
+
+.odi_table, th, td {
+	border: 1px solid gray;
+	vertical-align: top;
+	padding: 5px;
+} 
+
+/* Table Caption Styles */
+
+
+/* Table Column Styles */
+
+.odi_pos {
+	column-width: 10%;
+	background-color: rgb(215,205,151);
+}
+
+.odi_teams {
+	width: 11%;
+	background-color: rgb(236,255,211);
+}
+
+.odi_matches {
+	width: 17%;
+	background-color: rgb(255,231,255);
+}
+.odi_points {
+	width: 17%;
+	background-color: rgb(255,231,255);
+}
+.odi_ratings {
+	width: 17%;
+	background-color: rgb(255,231,255);
+}
+
+/* Table Header Styles */
+
+thead {
+	color: white;
+	background: rgb(105,177,60);
+}
+
+.odi_table thead tr th:first-of-type {
+	background-color: rgb(153,86,7);
+}
+
+
+.odi_table thead tr th:nth-of-type(7) {
+	background-color: rgb(153,0,153);
+}
+
+.odi_table thead tr th:nth-of-type(8) {
+	background-color: rgb(153,0,153);
+}

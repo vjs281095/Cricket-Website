@@ -1,0 +1,59 @@
+
+.container {
+	width: 981px;
+	height: auto;
+	margin: auto;
+	clear: both;
+}
+
+.banner {
+	width: 100%;
+	height:auto;
+	margin: auto;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	float: left;
+	clear: both;
+	border: 3px solid black;
+}
+
+.navbar {
+	width: 100%;
+	height: auto;
+	background: #327242;
+	padding: 0px;
+	float: left;
+	clear: both;
+	margin: 0px;
+	display: block;
+	border: 3px solid black;
+}
+
+.content {
+	width: 96%;
+	height: auto;
+	background:#62ad4b;
+	float: left;
+	display: block;
+	padding: 0px;
+	clear: both;
+	border: 3px solid black;
+	clear: both;
+}
+
+.footer {
+	text-align: center;
+	width: 100%;
+	height: auto;
+	display: block;
+	float: left;
+	border: 3px solid black;
+}
+
+.widgets {
+	width: 100%;
+	height: auto;
+	text-align: center;
+	padding-top: 10px;
+}
